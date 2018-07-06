@@ -2,10 +2,10 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
+title:               Jenn Wong
 tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.com
-paginate:            2
+url:                 http://cjennierwong.github.io/
+paginate:            5
 baseurl:             ""
 
 # Assets
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Jennifer Wong
+  url:               https://linkedin.com/cjenniferwong
+  email:             cjenniferwong@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/cjenniferwong
 
 # Gems
 gems:
