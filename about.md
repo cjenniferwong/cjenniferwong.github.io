@@ -6,7 +6,7 @@ title: about
 <p class="message">
   Hi there!
 
-  I'm a Data Scientist based in San Francisco, CA. I'm interested in decision sciences of B2C consumer products.
+  I'm a Data Scientist based in San Francisco, CA. I'm interested in decision sciences of B2C consumer products. Currently I am a Product Analyst at Postmates working on finding ways to easily connect customers to the city around them.
 </p>
 
 <!--- stuff that came with the original template
