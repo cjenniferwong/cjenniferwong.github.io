@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Jenn Wong
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://cjennierwong.github.io/
+tagline:             Data Science & Machine Learning
+url:                 http://cjenniferwong.github.io/
 paginate:            5
 baseurl:             ""
 
@@ -19,7 +19,7 @@ sass:
 author:
   name:              Jennifer Wong
   url:               https://linkedin.com/cjenniferwong
-  email:             cjenniferwong@gmail.com
+  # email:             cjenniferwong@gmail.com
 
 # Custom vars
 version:             2.0.0
@@ -32,7 +32,7 @@ gems:
   - jekyll-gist
 
 # Page List
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/index.html'
