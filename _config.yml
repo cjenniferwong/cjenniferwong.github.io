@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Jenn Wong
 tagline:             Data Science & Machine Learning
 url:                 http://cjenniferwong.github.io/
-paginate:            5
+paginate:            1
 baseurl:             ""
 
 # Assets
