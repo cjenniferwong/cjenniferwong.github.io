@@ -17,8 +17,8 @@ sass:
 
 # About/contact
 author:
-  name:              Jennifer Wong
-  url:               https://linkedin.com/cjenniferwong
+  name:              Jenn Wong
+  url:               https://linkedin.com/in/cjenniferwong
   # email:             cjenniferwong@gmail.com
 
 # Custom vars
@@ -34,5 +34,11 @@ gems:
 # Page List
 pages_list:
   About: '/about'
-  Archive: '/archive'
+  # Archive: '/archive'
   Feed: '/index.html'
+
+# 2020-03-15 updates
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+paginate : 1
