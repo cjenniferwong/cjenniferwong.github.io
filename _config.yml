@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Jenn Wong
+tagline:             Data Science & Machine Learning
+url:                 http://cjenniferwong.github.io/
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Jennifer Wong
+  url:               https://linkedin.com/cjenniferwong
+  # email:             cjenniferwong@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/cjenniferwong
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
