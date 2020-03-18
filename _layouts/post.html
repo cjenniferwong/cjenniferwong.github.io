@@ -23,3 +23,7 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
