@@ -1,12 +1,14 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
 <p class="message">
   Hi there!
 
   I'm a Data Scientist based in San Francisco, CA. I'm interested in decision sciences of B2C consumer products, most recently as a Product Analyst at Postmates.
+
+  I am interested in health, data, art and digital media with a terrible pun here and there.
 </p>
 
 <!--- stuff that came with the original template
