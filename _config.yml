@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Jenn Wong
 tagline:             Data Science & Machine Learning
 url:                 http://cjenniferwong.github.io/
-paginate:            1
+paginate:            2
 baseurl:             ""
 
 # Assets
@@ -36,9 +36,9 @@ pages_list:
   About: '/about'
   # Archive: '/archive'
   Feed: '/index.html'
+  Projects: '/projects'
 
 # 2020-03-15 updates
 plugins:
   - jekyll-gist
   - jekyll-paginate
-paginate : 1
