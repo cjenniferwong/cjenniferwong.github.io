@@ -9,3 +9,9 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll"
 gem "jekyll-gist"
 gem "jekyll-paginate"
+gem "jekyll-watch"
+gem "listen"
+# gem 'jekyll'
+# gem 'guard'
+# gem 'guard-jekyll-plus'
+# gem 'guard-livereload'
