@@ -2,15 +2,15 @@
 layout: page
 title: About
 ---
+_Data to information,
+information to knowledge,
+knowledge to wisdom._
 
 <p class="message">
-  _Data to information,
-  information to knowledge,
-  knowledge to wisdom._
 
   I'm a Data Scientist based in San Francisco, CA. I'm interested in Decision Sciences of B2C consumer products, most recently as a Product Analyst at <a href="postmates.com">Postmates</a>.
 
-  I am interested in health, data, art, digital media and the occasional terrible pun.
+  My interested in data, health, and media during my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
 </p>
 
 <!--- stuff that came with the original template
