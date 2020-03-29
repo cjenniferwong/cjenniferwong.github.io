@@ -4,7 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hi there!
+  _Data to information,
+  information to knowledge,
+  knowledge to wisdom._
 
   I'm a Data Scientist based in San Francisco, CA. I'm interested in Decision Sciences of B2C consumer products, most recently as a Product Analyst at <a href="postmates.com">Postmates</a>.
 
