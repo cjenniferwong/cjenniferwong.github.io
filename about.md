@@ -10,7 +10,7 @@ knowledge to wisdom._
 
   I'm a Data Scientist based in San Francisco, CA. I'm interested in Decision Sciences of B2C consumer products, most recently as a Product Analyst at <a href="postmates.com">Postmates</a>.
 
-  My interested in data, health, and media during my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
+  My interested in data, health, and media stems from my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
 </p>
 
 <!--- stuff that came with the original template

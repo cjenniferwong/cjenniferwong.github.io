@@ -36,7 +36,7 @@ gems:
 pages_list:
   About: '/about'
   # Archive: '/archive'
-  Feed: '/index.html'
+  # Feed: '/index.html'
   Projects: '/projects'
 
 # 2020-03-15 updates
