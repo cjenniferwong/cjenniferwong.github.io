@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ML and Experimentation
+title: Machine Learning & Experimentation
 tags: statistics hypothesis_testing bootstrap permutation
 ---
 ## Experimental Design
