@@ -1,0 +1,19 @@
+I"ù<h2 id="experimental-design">Experimental Design</h2>
+<h3 id="power-analysis">Power Analysis</h3>
+<h3 id="data-generation">Data generation</h3>
+<h3 id="exploratory-analysis">Exploratory Analysis</h3>
+<p><img src="/assets/stats/Boxplot.svg" alt="Boxplot Test" /></p>
+<h2 id="statistical-analysis">Statistical Analysis</h2>
+<h3 id="students-t-test">Student‚Äôs T-Test</h3>
+<p><img src="/assets/stats/Normal_QQ_Plot.svg" alt="Normal QQ Plot" />
+<img src="/assets/stats/Not_Normal_QQ_Plot.svg" alt="Not Normal QQ Plot" /></p>
+<h2 id="what-is-the-difference-between-permutation-tests-and-bootstrap-for-resampling-techniques">What is the difference between Permutation Tests and Bootstrap for Resampling Techniques?</h2>
+<h3 id="why-is-permutation-used-for-significance-testing-and-bootstrap-used-for-statistic-estimation">Why is Permutation used for significance Testing, and Bootstrap used for statistic estimation?</h3>
+<p><img src="/assets/stats/Permutation_Mean.svg" alt="Permutation for Mean Test Statistic" />
+<img src="/assets/stats/Permutation_Median.svg" alt="Permutation for Median Test Statistic" />
+<img src="/assets/stats/Bootstrap_Mean.svg" alt="Bootstrap Mean" />
+<img src="/assets/stats/Bootstrap_Median.svg" alt="Bootstrap Median" /></p>
+<h2 id="results">Results</h2>
+<h3 id="key-takeaways">Key Takeaways</h3>
+<h3 id="statistical-significance-v-practical-significance">Statistical Significance v. Practical Significance</h3>
+:ET

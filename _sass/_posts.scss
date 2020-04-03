@@ -2,6 +2,7 @@
 //
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
+@import "jennwong_colors";
 
 .page,
 .post {
@@ -17,9 +18,16 @@
 .post-title,
 .post-title a {
     // color: #CC8DEB; // the light purple pink
-    color: #240FAB; // the dark purple navy 
+    color: $color-purple; // the dark purple navy
   // color: #303030;
+  &:hover{ // color changes when user hovers over post title
+      color: $color-blue;
+  }
+
 }
+
+
+
 .page-title,
 .post-title {
   margin-top: 0;

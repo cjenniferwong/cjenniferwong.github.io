@@ -1,6 +1,7 @@
 // Masthead
 //
 // Super small header above the content for site name and short description.
+@import "jennwong_colors";
 
 .masthead {
   padding-top:    1rem;
@@ -8,18 +9,20 @@
   margin-bottom: 3rem;
 }
 
-.masthead-title { // this is the page title 
+.masthead-title { // this is the page title
   margin-top: 0;
   margin-bottom: 0;
-  color: $gray-4;
+  color: $color-purple;
 
   a {
-    color: inherit;
+    color: inherit; // this is the title color
+    font-size: 120%;
   }
 
-  small {
+  small { // this is the tagline and pages settings
     font-size: 75%;
     font-weight: 400;
-    opacity: .5;
+    opacity: 1;
+    color: $color-darkgrey;
   }
 }
