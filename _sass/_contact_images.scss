@@ -1,0 +1,20 @@
+@import "image_sizing";
+
+.contact_images {
+
+}
+
+.github{
+    width: $images.github_width;
+    height: $images.github_height;
+}
+
+.email{
+    width: $images.github_width * .7;
+    height: $images.github_height * .7;
+}
+
+.linkedin{
+    width: $images.github_width * .7;
+    height: $images.github_height * .7;
+}

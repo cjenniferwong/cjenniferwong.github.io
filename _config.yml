@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Jenn Wong
-  url:               https://linkedin.com/in/cjenniferwong
+  # url:               https://linkedin.com/in/cjenniferwong
   # email:             cjenniferwong@gmail.com
 
 # Custom vars
