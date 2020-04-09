@@ -4,6 +4,7 @@ title: Machine Learning & Experimentation
 tags: statistics hypothesis_testing bootstrap permutation
 ---
 ## Experimental Design
+[Jupyter Notebook](https://bit.ly/stats_notebook)
 ### Power Analysis
 ### Data generation
 ### Exploratory Analysis
