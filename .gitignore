@@ -4,6 +4,7 @@ _site
 .env
 .ruby-version
 .jekyll-cache*
+.jekyll-cache/*
 
 
 # Numerous always-ignore extensions

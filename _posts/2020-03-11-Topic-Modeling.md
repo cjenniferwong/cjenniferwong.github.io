@@ -8,7 +8,7 @@ tags: linear_algebra unsupervised_learning topic_modeling delta
 
 [Jupyter notebook](bit.ly/topic_modeling)
 
-Unstructured text data provides a wealth of information, but require time and resources to parse through the corpus. As the corpus increases in volume, the energy and resource investment greatly increases as well. Luckily with Topic Modeling, we are able to utilize Statistics and Linear Algebra to quickly and efficiently extract insights.
+Unstructured text data provides a wealth of information, but require time and resources to parse through the corpus. As the corpus increases in volume, the energy and resource investment greatly increases as well. Luckily with Topic Modeling, we are able to utilize Statistics and Linear Algebra to quickly and efficiently extract insights. This creates a framework  and structure to analyze data in the future, and defined dimensions which allow for clearer communication. 
 
 There are a multitude of ways to implement Topic Modeling. Depending on your dataset and the problem statement, different methods would fare better.
 

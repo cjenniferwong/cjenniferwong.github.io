@@ -13,6 +13,12 @@ knowledge to wisdom._
   I am particularly excited about experimentation, and high-dimensional unstructured data.
 
   My interested in data, health, and media stems from my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
+  <br>
+  <br>
+
+
+  I am also deeply passionate about ethics, and the role that data/tech plays in the world. I gave a talk on <a ref="https://docs.google.com/presentation/d/1zWmNnnUS_rVfHccgb5P6FbvxnhyXj5Hzg5Yl1RiZhDM/edit?usp=sharing">Data Science and Ethics (2018)</a> which inspired a new module dedicated on Ethics to be taught!
+
 </p>
 
 <p class="contact_images">
