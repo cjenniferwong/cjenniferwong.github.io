@@ -10,9 +10,16 @@ knowledge to wisdom._
 <p class="message">
   I'm a Data Scientist based in San Francisco, CA. I'm interested in Decision Sciences of B2C consumer products, most recently as a Product Analyst at <a href="postmates.com">Postmates</a>.
 
-  I am particularly excited about experimentation, and high-dimensional unstructured data.
+  I am particularly excited about experimentation, and high-dimensional unstructured data. <a href="https://medium.com/analytics-vidhya/a-whole-new-meaning-to-wym-topic-modeling-with-non-negative-matrix-factorization-d8813b296e95"> My work has contributed to the Analytics Vidhya publication on Medium.</a>
 
-  My interested in data, health, and media stems from my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
+  <br>
+  <br>
+  I am also a volunteer for Women in Machine Learning and Data Science, San Francisco chapter. <a href="https://medium.com/wimlds-bay-area-blog/recap-wimlds-x-quora-a-night-of-data-analytics-948e6d106804"> You can read my writing here. </a>
+
+  <br>
+  <br>
+
+  My interests in data, health, and media stems from my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
   <br>
   <br>
 
