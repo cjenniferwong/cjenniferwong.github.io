@@ -19,7 +19,7 @@ knowledge to wisdom._
   <br>
   <br>
 
-  My interests in data, health, and media stems from my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun).
+  My interests in data, health, and media stems from my undergraduate degree at UC Berkeley (coupled with the occasional terrible pun). You can find my talk on <a href="https://docs.google.com/presentation/d/1fCijsxB1O74Oe6BGo2l_QMsgWgeS-s06ebPwjCyN3Qk/edit?usp=sharing"> Spotify's Recommendation System here!</a>
   <br>
   <br>
 
