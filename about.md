@@ -8,14 +8,17 @@ information to knowledge,
 knowledge to wisdom._
 
 <p class="message">
-  I'm a Data Scientist based in San Francisco, CA. I'm interested in Decision Sciences of B2C consumer products, most recently as a Product Analyst at <a href="postmates.com">Postmates</a>.
+  I'm a Data Scientist based in San Francisco, CA. I'm interested in Decision Sciences of B2C consumer products, most recently as a Product Analyst at <a href="postmates.com">Postmates</a>.     
+  <br> <br>
 
-  I am particularly excited about experimentation, and high-dimensional unstructured data. <a href="https://medium.com/analytics-vidhya/a-whole-new-meaning-to-wym-topic-modeling-with-non-negative-matrix-factorization-d8813b296e95"> My work has contributed to the Analytics Vidhya publication on Medium.</a>
+  <a href="https://docs.google.com/presentation/d/1mnf4DD0cqGeWD-iSV1_syZfjWEAVttXzc0wUTG8CAjw/edit?usp=sharing"> Here is a product analysis </a> that I did for RealTalk.
+<br>
+<br>
+  I am particularly excited about experimentation, and high-dimensional unstructured data. <a href="https://medium.com/analytics-vidhya/a-whole-new-meaning-to-wym-topic-modeling-with-non-negative-matrix-factorization-d8813b296e95"> My work has contributed to the Analytics Vidhya publication on Medium.</a> This post was inspired by my project on Topic Modeling <a href="https://github.com/cjenniferwong/topic_modeling/blob/master/nmf_topic_modeling_jennwong.ipynb">(repo)</a>.
 
   <br>
   <br>
-  I am also a volunteer for Women in Machine Learning and Data Science, San Francisco chapter. <a href="https://medium.com/wimlds-bay-area-blog/recap-wimlds-x-quora-a-night-of-data-analytics-948e6d106804"> You can read my writing here. </a>
-
+  I frequently think and write about Statistics. Here is a recent experiment that I analyzed <a href="">(repo)</a>. This inspired me to build an app that aims to visualize statistical concepts, something that I am passionate about. You can find it <a href="mo-better.herokuapp.com">here</a>.
   <br>
   <br>
 
@@ -23,8 +26,11 @@ knowledge to wisdom._
   <br>
   <br>
 
-
   I am also deeply passionate about ethics, and the role that data/tech plays in the world. I gave a talk on <a ref="https://docs.google.com/presentation/d/1zWmNnnUS_rVfHccgb5P6FbvxnhyXj5Hzg5Yl1RiZhDM/edit?usp=sharing">Data Science and Ethics (2018)</a> which inspired a new module dedicated on Ethics to be taught!
+
+  <br>
+  <br>
+  I volunteer for Women in Machine Learning and Data Science, San Francisco chapter. <a href="https://medium.com/wimlds-bay-area-blog/recap-wimlds-x-quora-a-night-of-data-analytics-948e6d106804"> You can read my writing here. </a>
 
 </p>
 
