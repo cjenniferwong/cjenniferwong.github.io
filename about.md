@@ -26,7 +26,7 @@ knowledge to wisdom._
   <br>
   <br>
 
-  I am also deeply passionate about ethics, and the role that data/tech plays in the world. I gave a talk on <a ref="https://docs.google.com/presentation/d/1zWmNnnUS_rVfHccgb5P6FbvxnhyXj5Hzg5Yl1RiZhDM/edit?usp=sharing">Data Science and Ethics (2018)</a> which inspired a new module dedicated on Ethics to be taught!
+  I am also deeply passionate about ethics, and the role that data/tech plays in the world. I gave a talk on <a href="https://docs.google.com/presentation/d/1zWmNnnUS_rVfHccgb5P6FbvxnhyXj5Hzg5Yl1RiZhDM/edit?usp=sharing">Data Science and Ethics (2018)</a> which inspired a new module dedicated on Ethics to be taught!
 
   <br>
   <br>
