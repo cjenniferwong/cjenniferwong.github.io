@@ -6,6 +6,11 @@ tags: statistics hypothesis_testing bootstrap permutation
 While doing code review for a Machine Learning project, I saw that a colleague approached data cleaning differently than I do--they applied data transformations on the entire dataframe, while I have always done it on select columns. I thought it was interesting, and wondered which was more computationally efficient (if there was a clear difference at all). Upon scouring google and StackExchange, I found that the answer to my question could not be found on the internet.
 ![google_search](/assets/stats/google_search.png)
 I decided this was a perfect example to use for a mental exercise in Experimentation and Statistical Analysis.
+
+
+<!-- more -->
+
+
 ## Experimental Design
 [Jupyter Notebook](https://bit.ly/stats_notebook)
 

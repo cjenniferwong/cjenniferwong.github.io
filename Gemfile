@@ -11,7 +11,6 @@ gem "jekyll-gist"
 gem "jekyll-paginate"
 gem "jekyll-watch"
 gem "listen"
-# gem 'jekyll'
 # gem 'guard'
 # gem 'guard-jekyll-plus'
 # gem 'guard-livereload'

@@ -14,7 +14,13 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content }}
+    {% if post.content contains '<!--more-->' %}
+				{{ post.content | split:'<!--more-->' | first }}
+			{% else %}
+				{{ post.excerpt }}
+			{% endif %}
+			<a href="{{ post.url }}" target="_blank">Read more</a>
+
   </article>
   {% endfor %}
 </div>

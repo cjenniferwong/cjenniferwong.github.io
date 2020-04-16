@@ -4,13 +4,14 @@ title: Topic Modeling with Non-Negative Matrix Factorization
 tags: linear_algebra unsupervised_learning topic_modeling delta
 ---
 
-## Problem Statement: Unstructured text data that hasn't been analyzed. Can we used topic modeling to identify topics in the data and provide structure for future analyses and product development?
-
-[Jupyter notebook](bit.ly/topic_modeling)
-
-Unstructured text data provides a wealth of information, but require time and resources to parse through the corpus. As the corpus increases in volume, the energy and resource investment greatly increases as well. Luckily with Topic Modeling, we are able to utilize Statistics and Linear Algebra to quickly and efficiently extract insights. This creates a framework  and structure to analyze data in the future, and defined dimensions which allow for clearer communication. 
+Unstructured text data provides a wealth of information, but require time and resources to parse through the corpus. As the corpus increases in volume, the energy and resource investment greatly increases as well. Luckily with Topic Modeling, we are able to utilize Statistics and Linear Algebra to quickly and efficiently extract insights. This creates a framework  and structure to analyze data in the future, and defined dimensions which allow for clearer communication.
 
 There are a multitude of ways to implement Topic Modeling. Depending on your dataset and the problem statement, different methods would fare better.
+
+
+<!-- more -->
+
+[Jupyter notebook](bit.ly/topic_modeling)
 
 A probabilistic approach to this is **Latent Dirichlet Allocation (LDA)**. Another well known way to reduce dimensions is **Principal Component Analysis (PCA)**. Note: when applied to text data, this method is usually referenced as **Latent Sentiment Analysis (LSA).** I found that Non-Negative Matrix Factorization provided better results than LDA, and LSA.
 
